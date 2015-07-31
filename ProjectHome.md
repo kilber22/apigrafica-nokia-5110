@@ -1,0 +1,1 @@
+Essa biblioteca utiliza a API pcd854 para acessar o LCD nokia 5110
